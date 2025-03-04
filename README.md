@@ -17,7 +17,7 @@
 
 <div align="center" >
   
-  <img src="https://github-readme-stats.vercel.app/api?username=joaofilipe17&show_icons=true&theme=gruvbox&count_private=true" width="40%" height="170px"></img>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofilipe17&layout=compact&theme=gruvbox" width="40%" height="170px"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaofilipe17&show_icons=true&theme=gruvbox&count_private=true" width="40%" height="170px"></img>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofilipe17&layout=compact&theme=gruvbox" width="40%" height="160px"></img>
 
 </div>
 
